@@ -1,1 +1,1 @@
-This repository posts the source for the website at <https://kassandramerinomuniz.github.io/Portfolio>.
+This repository posts the source for the web site at <https://kassandramerinomuniz.github.io/Portfolio>.
