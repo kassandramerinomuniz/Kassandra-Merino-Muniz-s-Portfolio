@@ -1,2 +1,2 @@
 ## Digital Portfolio
-This website hosts my a portfolio of my digital work. 
+This website hosts my a portfolio of my digital work. For my final project, I wanted to analyze the Art of Devastation dataset available on the American Numismatic Society's website. I wanted to analyze the images that were depicted on the medallions and how they commemorated the First World War. This link directly takes you to the jupyter notebook that I used for my analysis. https://mybinder.org/v2/gh/kassandramerinomuniz/clas299/master?filepath=AoDevastation.ipynb
