@@ -1,3 +1,3 @@
-## My Digital Portfolio
+## Kassandra Merino Muniz's Digital Portfolio
 
 This repository posts the source for [my digital portfolio](https://kassandramerinomuniz.github.io/Portfolio).
