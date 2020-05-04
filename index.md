@@ -3,4 +3,4 @@ Welcome! This website hosts my a portfolio of my digital work. For my final proj
 
 This link takes you to the jupyter notebook that I used to get my results. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kassandramerinomuniz/clas299/master?filepath=Devastation%2FAoDevastation.ipynb)
 
-This link takes you my GitHub repository and you can download the powerpoint to view my results and what I did to achieve those results. [https://github.com/kassandramerinomuniz/clas299/blob/master/Devastation/AoDevastationFinalProject.pdf
+This link takes you my GitHub repository and you can download the powerpoint to view my results and what I did to achieve those results. [https://github.com/kassandramerinomuniz/clas299/blob/master/Devastation/AoDevastationFinalProject.pdf).
